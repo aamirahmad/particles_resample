@@ -8,4 +8,6 @@ Usage:
 1. Simply create a make file by running 'cmake .' and then then run 'make'
 2. 2 executables are created, one for each kind of resampler. Simply execute them without any additional params. One execution, the prompt will ask you to input the number of particles. That's it!
 
+Note that gnuplot-iostream.h can is obtained from https://github.com/dstahlke/gnuplot-iostream and not originally written by the author of this repo.
+
 
